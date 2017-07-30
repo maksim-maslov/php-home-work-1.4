@@ -37,7 +37,53 @@
 <html>
 <head>
 	<title>Home-work-1.4</title>
-	
+	<style type="text/css">
+
+		body {
+			font: 16px/1.6 Arial, sans-serif;
+			color: #242424;
+		}
+
+		.weather-section {
+			position:relative;	
+			margin: 40px auto;				
+		}
+
+		.weather {
+			max-width:320px;
+			margin:0 auto;
+			padding: 25px 5px 15px 5px;			
+			background-color: #f9690e;
+			border-radius: 5px;
+		}
+		.weather__top {
+			padding: 0 5px 5px 5px; 			 
+			border-bottom: 2px solid rgba(60, 60, 60, 0.6);
+		}
+
+		.weather-top__head {
+			font: 700 26px Arial, sans-serif;
+			color: #2e2e2e;
+		}
+
+		.weather-top__temp {
+			font: 700 20px Arial, sans-serif;
+			padding-top: 10px;
+		}
+
+		.weather-top__weather-description {
+			padding-top: 10px;
+		}
+
+		.weather-table__cell {
+			padding: 3px;
+		}
+
+		.weather-table__cell_right {
+			padding-left: 5px;
+		}
+
+	</style>
 </head>
 <body>
 	<section class="weather-section">
