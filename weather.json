@@ -1,0 +1,12 @@
+{"coord":{"lon":33.09,"lat":68.98},
+"weather":[{"id":500,"main":"Rain","description":"light rain","icon":"10d"}],
+"base":"stations",
+"main":{"temp":288.927,"pressure":1002.24,"humidity":94,"temp_min":288.927,"temp_max":288.927,"sea_level":1017.67,"grnd_level":1002.24},
+"wind":{"speed":1.42,"deg":184.502},
+"rain":{"3h":1.485},
+"clouds":{"all":80},
+"dt":1501359257,
+"sys":{"message":0.008,"country":"RU","sunrise":1501284519,"sunset":1501359216},
+"id":524305,
+"name":"Murmansk",
+"cod":200}
